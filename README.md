@@ -4,7 +4,8 @@ Like notepad, but better.
 
 Can compile LaTeX. Has GenAI.  
 
-Please use "pip install -r requirements.txt"
+Please use "pip install -r requirements.txt"  
+Add a .env file with an OpenAI api key to use the ai features.  
 
 Features :  
 
