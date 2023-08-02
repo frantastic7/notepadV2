@@ -1,0 +1,6 @@
+openai
+python-dotenv
+pyspellchecker
+sounddevice
+numpy
+whisper
