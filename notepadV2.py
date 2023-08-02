@@ -174,7 +174,7 @@ def notes_to_text () :
         temperature = 0.4
     )
 
-    textarea.insert("end", "\n"+text_response.choices[0].message["content".strip()])
+    textarea.insert("end", "\n"+text_response.choices[0].message["content"].strip())
 
 def recording_window ():
     recording_window = Toplevel(root)
