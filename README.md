@@ -18,4 +18,4 @@ Features :
 7. Speech to text
 8. Audio file transcription  
 
-More to come!
+More to come! (Whisper supports up to 25MB audio files, Gen AI is gpt-3.5-turbo-16k)
