@@ -3,9 +3,16 @@
 Like notepad, but better.  
 
 Can compile LaTeX. Has GenAI.  
+# Installs
+```bash
+pip install -r requirements.txt
+```  
 
-Please use "pip install -r requirements.txt"  
+# Enviorment variables
 Add a .env file with an OpenAI api key to use the ai features.  
+```env
+OPENAI_API_KEY=your_openai_api_key
+```  
 
 Features :  
 
